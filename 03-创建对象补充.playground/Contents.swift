@@ -11,6 +11,7 @@ let viewRect = CGRect(x: 0, y: 0, width: 100, height: 100)
 
 let view : UIView = UIView(frame:viewRect)
 
+
 // 2.设置UIView的属性
 view.backgroundColor = UIColor.red
 
