@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:03-&#x521b;&#x5efa;&#x5bf9;&#x8c61;&#x8865;&#x5145;.playground">
+   </FileRef>
+   <FileRef
+      location = "container:02-&#x53d8;&#x91cf;&#x548c;&#x5e38;&#x91cf;.playground">
+   </FileRef>
+   <FileRef
+      location = "container:01-Swift&#x521d;&#x4f53;&#x9a8c;.playground">
+   </FileRef>
+</Workspace>
