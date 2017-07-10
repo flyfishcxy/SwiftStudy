@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:10-&#x5faa;&#x73af;&#x4f7f;&#x7528;(while&amp;dowhile&#x5faa;&#x73af;).playground">
+   </FileRef>
+   <FileRef
+      location = "group:09-&#x5faa;&#x73af;&#x4f7f;&#x7528;(for&#x5faa;&#x73af;).playground">
+   </FileRef>
+   <FileRef
+      location = "group:08-&#x903b;&#x8f91;&#x5206;&#x652f;(switch&#x7684;&#x4f7f;&#x7528;).playground">
+   </FileRef>
+   <FileRef
+      location = "group:07-&#x903b;&#x8f91;&#x5206;&#x652f;(guard&#x7684;&#x4f7f;&#x7528;).playground">
+   </FileRef>
+   <FileRef
+      location = "group:/workSpace/SwiftStudy/SwiftStudy/06-&#x903b;&#x8f91;&#x5206;&#x652f;(if&#x7684;&#x4f7f;&#x7528;).playground">
+   </FileRef>
+   <FileRef
+      location = "group:05-&#x57fa;&#x672c;&#x8fd0;&#x7b97;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:04-&#x7c7b;&#x578b;&#x63a8;&#x5bfc;.playground">
+   </FileRef>
+   <FileRef
       location = "group:03-&#x521b;&#x5efa;&#x5bf9;&#x8c61;&#x8865;&#x5145;.playground">
    </FileRef>
    <FileRef
